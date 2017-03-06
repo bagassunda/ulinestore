@@ -10,6 +10,9 @@
 			<ul>
 			<li><a href="#">Category</a></li>
 			<li><a href="#">lsald</a></li>
+			<li><input type="text" placeholder="Search" class="search"></li>
+			<li><a href="#">Login</a></li>
+			<li><a href="#">Register</a></li>
 			</ul>
 		</div>
 	</nav>
